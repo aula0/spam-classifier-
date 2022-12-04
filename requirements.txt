@@ -2,5 +2,6 @@ streamlit
 nltk
 sklearn
 click==8
+scikit-learn == 1.1.3
 
 
